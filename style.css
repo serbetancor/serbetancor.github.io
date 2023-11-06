@@ -371,7 +371,15 @@ body {
 	transform: rotateY(180deg);
 }
 
+.dif-style .hyper{
+	color: #207893;
+	text-decoration: none;
+}
 
+.dif-style .hyper:hover{
+	color: #2ea3b7;
+	text-decoration: underline;
+}
   
 @keyframes FadeInUp {
 	0% {
